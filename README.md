@@ -1,5 +1,5 @@
 # EndoV_environment
-The data included here is a sequence similarity search of EndoV protein sequecnes in environmental metagenomes, with a focus on endonucleases which showed activity for modified oligonucleotide substrates.
+The data included here is a sequence similarity search of EndoV-like proteins in environmental metagenomes with a focus on EndoV nucleases with previously demonstrated activity for modified oligonucleotide substrates.
 
 1. Query protein sequences belonging to members of the EndoV family were obtained from the Supplementary material from the published article of Moody, E., Obexer, R, Nickl, F., Spiess, R., and Lovelock, S.L. An enzyme cascade enables production of therapeutic oligonucleotides in a single operation. *Science* **380**, 1150-1154 (2023). DOI:[10.1126/science.add5892](https://dx.doi.org/10.1126/science.add5892)
 
