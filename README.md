@@ -6,7 +6,7 @@ The data included here is a sequence similarity search of EndoV-like proteins in
 3. The terminal hexahistidine tag and linker 'LE' were removed. The trimmed sequences are available at [EndoV_prot_query_seqs.faa](https://github.com/MSM-group/EndoV_environment/blob/main/EndoV_prot_query_seqs.faa).
 
 4. The sequences were used to search three separate databases on 20.06.2025:
-	- National Center for Biotechnology Information non-redundant proteins derived from environmental samples: [env_nr]([https://blast.ncbi.nlm.nih.gov/Blast.cgi](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome)
+	- National Center for Biotechnology Information non-redundant proteins derived from environmental samples: [env_nr](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome)
 	- European Bioinformatics Institute - [EBI MGnify](https://www.ebi.ac.uk/metagenomics/sequence-search/)
 	- EMBL Global Microbial Gene Catalog - [GMGC](https://gmgc.embl.de)
 
